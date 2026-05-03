@@ -1,7 +1,7 @@
-- [![签到状态](https://github.com/li5bo5/Cloud189-Actions/actions/workflows/main.yml/badge.svg?branch=main)](https://github.com/li5bo5/Cloud189-Actions/actions/workflows/main.yml) <br> 签到时间：2026-05-02 13:11:57
+- [![签到状态](https://github.com/li5bo5/Cloud189-Actions/actions/workflows/main.yml/badge.svg?branch=main)](https://github.com/li5bo5/Cloud189-Actions/actions/workflows/main.yml) <br> 签到时间：2026-05-03 13:31:16
 - 开始执行帐号1
 - 登录成功
-- 已经签到过了，签到获得91M空间
+- 已经签到过了，签到获得14M空间
 - 第1抽奖失败，可能是次数不足了
 - 第2抽奖失败，可能是次数不足了
 - 第3抽奖失败，可能是次数不足了
